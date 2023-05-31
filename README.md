@@ -1,4 +1,13 @@
-# HELP
-The [wiki](https://github.com/source-solutions/HELP/wiki) for this repository contains the native version of the SE Basic IV online help.
+This [wiki](https://github.com/source-solutions/HELP/wiki) is the single-source for the following SE Basic IV documents:
 
-The ultimate goal is to have this replace the current wiki so that there is one source of truth.
+* HELP app
+* project wiki
+* printed manual
+
+Content is componentized, written in a hybrid of Markdown and HTML, and formatted for an 80x24 fixed-width character display.
+
+The wiki repository includes a makefile to build the PDF. This requires these command line tools:
+
+* LaTeX
+* Make
+* Pandoc
