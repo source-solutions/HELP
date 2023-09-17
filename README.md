@@ -2,7 +2,7 @@ This wiki is the single-source for the following SE Basic IV documents:
 
 * HELP app
 * [project wiki](https://github.com/source-solutions/HELP/wiki)
-* [printed manual](https://github.com/source-solutions/HELP/blob/main/Programming%20SE%20Basic%20IV.pdf)
+* [printed manual](https://github.com/source-solutions/HELP/blob/main/Programming%20SE%20BASIC.pdf)
 
 Content is componentized, written in a hybrid of Markdown and HTML, and formatted for an 80x24 fixed-width character display.
 
